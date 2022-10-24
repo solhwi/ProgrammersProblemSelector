@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "61zf80xO8YQtonDBX0ORIJmEI6zh0OBgfQ7/1xtI0WCKOqgyO/y2Xh9418Eh/WAiY7rWwIccRNnJMRkvpWv/iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yjhju\\source\\repos\\CodingTestProblemSelector\\CodingTestProblemSelector\\CodingTestProblemSelector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yjhju\\.nuget\\packages\\cef.redist.x64\\106.0.29\\cef.redist.x64.106.0.29.nupkg.sha512",
+    "C:\\Users\\yjhju\\.nuget\\packages\\cef.redist.x86\\106.0.29\\cef.redist.x86.106.0.29.nupkg.sha512",
+    "C:\\Users\\yjhju\\.nuget\\packages\\cefsharp.common\\106.0.290\\cefsharp.common.106.0.290.nupkg.sha512",
+    "C:\\Users\\yjhju\\.nuget\\packages\\cefsharp.winforms\\106.0.290\\cefsharp.winforms.106.0.290.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 'net6.0-windows7.0' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1'을(를) 사용하여 패키지 'CefSharp.WinForms 106.0.290'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "CefSharp.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

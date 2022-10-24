@@ -1,0 +1,17 @@
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\bin\Debug\net6.0-windows\CodingTestProblemSelector.exe
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\bin\Debug\net6.0-windows\CodingTestProblemSelector.deps.json
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\bin\Debug\net6.0-windows\CodingTestProblemSelector.runtimeconfig.json
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\bin\Debug\net6.0-windows\CodingTestProblemSelector.dll
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\bin\Debug\net6.0-windows\CodingTestProblemSelector.pdb
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.csproj.AssemblyReference.cache
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.Form1.resources
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.csproj.GenerateResource.cache
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.AssemblyInfoInputs.cache
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.AssemblyInfo.cs
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.csproj.CoreCompileInputs.cache
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.dll
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\refint\CodingTestProblemSelector.dll
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.pdb
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\CodingTestProblemSelector.genruntimeconfig.cache
+C:\Users\yjhju\source\repos\CodingTestProblemSelector\CodingTestProblemSelector\obj\Debug\net6.0-windows\ref\CodingTestProblemSelector.dll
